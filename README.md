@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p>
   <a href="https://github.com/s1f10220274">
     <img
